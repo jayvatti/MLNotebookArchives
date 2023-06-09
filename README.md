@@ -27,4 +27,4 @@ This repository contains my machine learning notebooks. Below is the organizatio
    Description: Notebook for performing polynomial regression.
 
 
-Feel free to explore and utilize these notebooks for your machine learning projects!
+
