@@ -20,4 +20,11 @@ This repository contains the training data for various machine learning models. 
 - Relationship: Polynomial relationship between the features and the target variable.
 - Usage: Suitable for training polynomial regression models.
 
+### `logisticRegression.csv`
+
+- Description: csv file for binary logistic regression
+- Relationship: 2 features. (x1, x2, y1) 
+- Usage: Suitable for logistic regression, logistic loss and sigmoid functions
+
+
 
