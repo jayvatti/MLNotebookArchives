@@ -25,6 +25,12 @@ This repository contains my machine learning notebooks. Below is the organizatio
 4. `polyRegression.ipynb`
 
    Description: Notebook for performing polynomial regression.
+   
+5. `binaryLogisticRegression.ipynb`
+
+   Description: Notbook for Logistic Regression using Logistic Loss and Sigmoid Functions
+  
+
 
 
 
