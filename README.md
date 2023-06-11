@@ -22,7 +22,7 @@ This repository contains my machine learning notebooks. Below is the organizatio
 
    Description: Linear Regression using the Normal equation.
 
-4. [`polyRegression.ipynb`](polyRegression.ipynb)
+4. [`polynomialRegression.ipynb`](polynomialRegression.ipynb)
 
    Description: Polynomial Regression and using Sci-kit Learn.
    
