@@ -3,7 +3,7 @@
 
 This repository contains the training data for various machine learning models. Below are the details of each file:
 
-## [height_weight.csv](height_weight.csv)
+## `[height_weight.csv](height_weight.csv)`
 
 - **Description**: Linear regression CSV file with a strong positive linear relationship between height and weight.
 - **Relationship**: Strong positive linear relationship.
