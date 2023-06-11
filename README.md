@@ -28,7 +28,16 @@ This repository contains my machine learning notebooks. Below is the organizatio
    
 5. `binaryLogisticRegression.ipynb`
 
-   Description: Notbook for Logistic Regression using Logistic Loss and Sigmoid Functions
+   Description: Notebook for Logistic Regression using Logistic Loss and Sigmoid Functions
+
+6. `regularizedLinearRegression.ipynb`
+
+   Description: Notebook for Regularized Linear Regression
+
+7. `regularizedLogisticRegression.ipynb`
+
+   Description: Notebook for Regularized Logistic Regression
+  
   
 
 
