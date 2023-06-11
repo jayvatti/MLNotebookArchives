@@ -12,31 +12,31 @@ This repository contains my machine learning notebooks. Below is the organizatio
 
 1. `singleFeatureLinearRegression.ipynb`
 
-   Description: Notebook for performing linear regression with a single feature.
+   Description: linear regression with a single feature and using Sci-kit Learn.
 
 2. `multipleFeatureLinearRegression.ipynb`
 
-   Description: Notebook for performing linear regression with multiple features.
+   Description: linear regression with multiple features and using Sci-kit Learn.
 
 3. `normalEquationLinearRegression.ipynb`
 
-   Description: Notebook for performing linear regression using the normal equation.
+   Description: linear regression using the normal equation.
 
 4. `polyRegression.ipynb`
 
-   Description: Notebook for performing polynomial regression.
+   Description: polynomial regression and using Sci-kit Learn.
    
 5. `binaryLogisticRegression.ipynb`
 
-   Description: Notebook for Logistic Regression using Logistic Loss and Sigmoid Functions
+   Description: Logistic Regression using Logistic Loss and Sigmoid Functions and using Sci-kit Learn.
 
 6. `regularizedLinearRegression.ipynb`
 
-   Description: Notebook for Regularized Linear Regression
+   Description: Regularized Linear Regression (adding the regularized term)
 
 7. `regularizedLogisticRegression.ipynb`
 
-   Description: Notebook for Regularized Logistic Regression
+   Description: Regularized Logistic Regression (adding the regularized term)
   
   
 
