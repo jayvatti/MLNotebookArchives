@@ -1,4 +1,3 @@
-
 # Training Data for ML Models
 
 This repository contains the training data for various machine learning models. Below are the details of each file:
@@ -9,19 +8,19 @@ This repository contains the training data for various machine learning models. 
 - **Relationship**: Strong positive linear relationship.
 - **Usage**: Suitable for training linear regression models predicting weight based on height.
 
-## [multipleFeatures.csv](multipleFeatures.csv)
+## [`multipleFeatures.csv`](multipleFeatures.csv)
 
 - **Description**: Linear regression CSV file with multiple features.
 - **Relationship**: Linear relationship between the features and the target variable.
 - **Usage**: Suitable for training linear regression models involving multiple features.
 
-## [polyRegression.csv](polyRegression.csv)
+## [`polyRegression.csv`](polyRegression.csv)
 
 - **Description**: CSV file for polynomial regression.
 - **Relationship**: Polynomial relationship between the features and the target variable.
 - **Usage**: Suitable for training polynomial regression models.
 
-## [logisticRegression.csv](logisticRegression.csv)
+## [`logisticRegression.csv`](logisticRegression.csv)
 
 - **Description**: CSV file for binary logistic regression.
 - **Relationship**: Two features (x1, x2, y1).
@@ -29,7 +28,7 @@ This repository contains the training data for various machine learning models. 
 - **Decision Boundary**: Exhibits a straight line.
 - **Usage**: Suitable for logistic regression, logistic loss, and sigmoid functions.
 
-## [logisticRegressionCircular.csv](logisticRegressionCircular.csv)
+## [`logisticRegressionCircular.csv`](logisticRegressionCircular.csv)
 
 - **Description**: CSV file for binary logistic regression with an approximate circular boundary.
 - **Features**: Two features (x1, x2).
