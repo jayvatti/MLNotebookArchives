@@ -26,5 +26,11 @@ This repository contains the training data for various machine learning models. 
 - Relationship: 2 features. (x1, x2, y1) 
 - Usage: Suitable for logistic regression, logistic loss and sigmoid functions
 
+### `logisticRegressionCircular.csv`
+
+- Description: csv file for binary logistic regression
+- Relationship: 2 features. (x1, x2, y1). Two test results along with acceptance i.e target (Postivive = 1, Negative = 0)
+- Usage: Suitable for logistic regression, logistic loss and sigmoid functions
+
 
 
