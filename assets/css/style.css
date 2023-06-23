@@ -1,11 +1,21 @@
+
+
 @import '{{ site.theme }}';
 
 :root {
-  --text-color: #ffffff;   
-  --background-color: #1f1f1f;  
+  color-scheme: dark;
 }
 
 body {
-  color: var(--text-color);
-  background-color: var(--background-color);
+  filter: invert(100%);
+  background-color: #1f1f1f; 
+}
+
+img,
+video {
+  filter: invert(100%);
+}
+
+a {
+  color: #ffcc00;  
 }
