@@ -28,12 +28,25 @@ This repository contains the training data for various machine learning models. 
 - **Decision Boundary**: Exhibits a straight line.
 - **Usage**: Suitable for logistic regression, logistic loss, and sigmoid functions.
 
-## [`logisticRegressionCircular.csv`](logisticRegressionCircular.csv)
+## [`logisticRegressionCircular.csv`] (logisticRegressionCircular.csv)
 
 - **Description**: CSV file for binary logistic regression with an approximate circular boundary.
 - **Features**: Two features (x1, x2).
 - **Target Variable**: Represents the acceptance of a test result (Positive = 1, Negative = 0).
 - **Decision Boundary**: Exhibits an approximate circular pattern.
 - **Usage**: Suitable for logistic regression with higher-order equations, logistic loss, and sigmoid functions.
+
+## [`linearRegressionSimple.csv`] (linearRegressionSimple.csv)
+
+- **Description**: CSV file for linear regression
+- **Features**: Single Feature and Target
+- **Usage**: Suitable for practicing linear regression
+
+##[`logisticRegressionTumorSingle.csv`](logisticRegressionTumorSingle.csv)
+
+- **Description**: CSV file for Logistic Regression. Tumor sizes to classify as either malignant or benign
+- **Features**: Single Feature and Target.
+- **Usage**: Suitable for practicing logistic regression
+
 
 Please note that the provided information assumes familiarity with linear regression, polynomial regression, and logistic regression concepts.
