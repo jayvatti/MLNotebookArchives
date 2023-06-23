@@ -1,21 +1,18 @@
 
+@import "jekyll-theme-cayman";
 
-@import '{{ site.theme }}';
 
-:root {
-  color-scheme: dark;
-}
+$background-color: #0d1117; 
+$text-color: #c9d1d9; 
+$link-color: #58a6ff; 
 
 body {
-  filter: invert(100%);
-  background-color: #1f1f1f; 
-}
-
-img,
-video {
-  filter: invert(100%);
+    background-color: $background-color;
+    color: $text-color;
 }
 
 a {
-  color: #ffcc00;  
+    color: $link-color;
 }
+
+
