@@ -37,3 +37,21 @@ This repository contains my machine learning notebooks. Below is the organizatio
 7. [`regularizedLogisticRegression.ipynb`](regularizedLogisticRegression.ipynb)
 
    Description: Regularized Logistic Regression (adding the regularized term)
+
+
+### Neural Networks
+
+1. [`NeuralNetworkLinearRegression.ipynb`](NeuralNetworkLinearRegression.ipynb)
+   
+   Description: Single Neuron Layer - simple Linear Regression.
+   
+2. [`NeuralNetworkLogisticRegression.ipynb`](NeuralNetworkLogisticRegression.ipynb)
+
+    Description: Single Neuron Layer - Simple Logistic Regression for Single Feature Tumor Classification
+   
+3. [`NeuralNetworkLayers_binaryClassification.ipynb`](NeuralNetworkLayers_binaryClassification.ipynb)
+
+   Description: Neural Network Binary Classification. (Feature Engineering - Degree 6).
+                Activation Layer Graphs and 3D-Surface graph
+                Building Neural Network without Libraries
+   
