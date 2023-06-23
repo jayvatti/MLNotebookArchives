@@ -16,7 +16,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Implementation with Sci-kit Learn library.
         - Another version without any libraries.
         - Plots of cost functions for learning rate selection.
-        - Bonus: A sketched line of best fit!
+        - Bonus: A sketched line of best fit! (With and without Z-Score Normalization)
 
 2. [`multipleFeatureLinearRegression.ipynb`](multipleFeatureLinearRegression.ipynb)
     - Description: 
