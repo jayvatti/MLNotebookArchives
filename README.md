@@ -12,18 +12,6 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
 ### Supervised Learning
 
 1. [`singleFeatureLinearRegression.ipynb`](singleFeatureLinearRegression.ipynb)
-    - Description: An entry point into the world of Linear Regression, where a single feature dances with the Sci
-
-
-## Content
-
-- **Data folder:** Contains the essential datasets that power the models in these notebooks.
-
-## Notebook Structure
-
-### Supervised Learning
-
-1. [`singleFeatureLinearRegression.ipynb`](singleFeatureLinearRegression.ipynb)
     - Description: A beginner's journey into Linear Regression with a single input feature, using the Sci-kit Learn library.
 
 2. [`multipleFeatureLinearRegression.ipynb`](multipleFeatureLinearRegression.ipynb)
