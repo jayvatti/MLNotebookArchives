@@ -1,0 +1,11 @@
+@import '{{ site.theme }}';
+
+:root {
+  --text-color: #ffffff;   
+  --background-color: #1f1f1f;  
+}
+
+body {
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
