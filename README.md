@@ -4,7 +4,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
 
 ## Content
 
-- **[`Data folder`](\data\ReadMe.md):** A curated repository of datasets, serving as the foundation and fuel for the models crafted in these notebooks.
+- **[`Data folder`](/data/ReadMe.md):** A curated repository of datasets, serving as the foundation and fuel for the models crafted in these notebooks.
 
 ## Notebook Structure
 
