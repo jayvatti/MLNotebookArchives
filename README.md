@@ -16,6 +16,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Implementation with Sci-kit Learn library.
         - Another version without any libraries.
         - Plots of cost functions for learning rate selection.
+        - Bonus: A sketched line of best fit!
 
 2. [`multipleFeatureLinearRegression.ipynb`](multipleFeatureLinearRegression.ipynb)
     - Description: 
@@ -48,10 +49,15 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
 ### Neural Networks
 
 1. [`NeuralNetworkLinearRegression.ipynb`](NeuralNetworkLinearRegression.ipynb)
-    - Description: From regressions to neurons, this notebook implements a single-layer neural network for Linear Regression.
-
+    - Description: 
+        - From regressions to neurons, this notebook implements a single-layer neural network for Linear Regression.
+        - A regression line is sketched to highlight the model's predictions.
+          
 2. [`NeuralNetworkLogisticRegression.ipynb`](NeuralNetworkLogisticRegression.ipynb)
-    - Description: Continuing the neural exploration, this notebook applies a single-layer neural network for Logistic Regression. 
+    - Description: 
+        - Continuing the neural exploration, this notebook applies a single-layer neural network for Logistic Regression. 
+        - A sketched sigmoid function after fine-tuning the weights and biases using Sci-kit learn.
+        - Notably, it focuses on tumor classification - the model might not cure cancer, but it sure can classify it!
 
 3. [`NeuralNetworkLayers_binaryClassification.ipynb`](NeuralNetworkLayers_binaryClassification.ipynb)
     - Description: Unleashing the power of deep learning, this notebook explores a multi-layer neural network for binary classification, featuring:
