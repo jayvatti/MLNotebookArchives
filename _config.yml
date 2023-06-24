@@ -1,4 +1,37 @@
-theme: jekyll-theme-cayman
+
+title: ML Notebook Archives
+description: My ML Notebooks
+url: "https://jayvatti.github.io/MLNotebookArchives/" 
+baseurl: "/MLNotebookArchives" 
+
+# Build settings
 markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Site Author
+author:
+  name: Jay Vatti
+  email: sujay.vatti@gmail.com
+  github: jayvatti
+
+# Social profiles
+linkedin_username: https://www.linkedin.com/in/jayvatti
+instagram_username: jayv1505
+github_username:  jayvatti
+
+
+# SEO Settings
+title_separator: "-"
+twitter:
+  username: jayv1505
+  cards: true
+
+
 kramdown:
   input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
