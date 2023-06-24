@@ -20,6 +20,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Dataset: [height_weight.csv](/data/height_weight.csv)
           
 
+
 2. [`multipleFeatureLinearRegression.ipynb`](multipleFeatureLinearRegression.ipynb)
     - Description: 
         - Stepping up to multi-feature Linear Regression. 
@@ -29,6 +30,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Dataset: [multipleFeatures.csv](/data/multipleFeatures.csv) - Because one feature is too mainstream!
 
 
+
 3. [`normalEquationLinearRegression.ipynb`](normalEquationLinearRegression.ipynb)
     - Description:
         - Ditching iterations for equations, this notebook presents Linear Regression via the Normal equation.
@@ -36,9 +38,11 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Graphical representations may be missing, but the calculated weights and bias are similar to the ones from the gradient descent approach in [singleFeatureLinearRegression.ipnyb](singleFeatureLinearRegression.ipynb).
 
 
+
 4. [`polynomialRegression.ipynb`](polynomialRegression.ipynb)
     - Description: Straight lines are too mainstream! This notebook explores Polynomial Regression using Sci-kit Learn.
         - Dataset: [polyRegression.csv](/data/polyRegression.csv) 
+
 
 
 5. [`binaryLogisticRegression.ipynb`](binaryLogisticRegression.ipynb)
@@ -47,12 +51,14 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Dataset: [logisticRegression.csv](/data/logisticRegression.csv)
 
 
+
 6. [`regularizedLinearRegression.ipynb`](regularizedLinearRegression.ipynb)
     - Description: 
         - Regularization to the rescue! This notebook presents Regularized Linear Regression.
         - Both library-based and bare-bones implementations are available.
         - Cost function plots to select the best learning rate and lambda values.
         - Dataset: [multipleFeatures.csv](/data/multipleFeatures.csv) - Embrace the complexity!
+
 
 
 7. [`regularizedLogisticRegression.ipynb`](regularizedLogisticRegression.ipynb)
@@ -73,12 +79,14 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Dataset: [linearRegressionSimple.csv](/data/linearRegressionSimple.csv) 
 
 
+
 2. [`NeuralNetworkLogisticRegression.ipynb`](NeuralNetworkLogisticRegression.ipynb)
     - Description: 
         - Continuing the neural exploration, this notebook applies a single-layer neural network for Logistic Regression. 
         - A sketched sigmoid function after fine-tuning the weights and biases using Sci-kit learn.
         - Notably, it focuses on tumor classification - the model might not cure cancer, but it sure can classify it!
         - Dataset: [logisticRegressionTumorSingle.csv](/data/logisticRegressionTumorSingle.csv) - On a mission to segregate tumors!
+
 
 
 3. [`NeuralNetworkLayers_binaryClassification.ipynb`](NeuralNetworkLayers_binaryClassification.ipynb)
