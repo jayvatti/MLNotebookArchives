@@ -1,10 +1,5 @@
 # [MLNotebookArchives](https://jayvatti.github.io/MLNotebookArchives/)
 
-
-<style>
-    @import url('/assets/css/main.css');
-</style>
-
 This repository contains a collection of Jupyter notebooks, each highlighting the application and understanding of a distinct machine learning model, from the basics to the more sophisticated.
 
 ## Content
