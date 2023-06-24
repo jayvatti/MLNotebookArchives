@@ -32,7 +32,8 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
     - Description: Straight lines are too mainstream! This notebook explores Polynomial Regression using Sci-kit Learn. 
 
 5. [`binaryLogisticRegression.ipynb`](binaryLogisticRegression.ipynb)
-    - Description: Flirting with classification, this notebook delves into Binary Logistic Regression using Logistic Loss and Sigmoid Functions. 
+    - Description: Flirting with classification, this notebook delves into Binary Logistic Regression using Logistic Loss and Sigmoid Functions.
+    - Updated: Now includes a visualization of the sigmoid function and classification boundary, helping to understand how well the model separates classes. Classifying has never been so visually appealing!
 
 6. [`regularizedLinearRegression.ipynb`](regularizedLinearRegression.ipynb)
     - Description: 
