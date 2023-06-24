@@ -26,7 +26,10 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Includes cost function plots to guide the choice of learning rate.
 
 3. [`normalEquationLinearRegression.ipynb`](normalEquationLinearRegression.ipynb)
-    - Description: Ditching iterations for equations, this notebook presents Linear Regression via the Normal equation. 
+    - Description:
+        - Ditching iterations for equations, this notebook presents Linear Regression via the Normal equation.
+        - Employs the same [dataset](/data/heights_weights.csv) as the simpleLinearRegression notebook
+        - Graphical representations may be missing, but the calculated weights and bias are similar to the ones from the gradient descent approach in [singleFeatureLinearRegression.ipnyb](singleFeatureLinearRegression.ipynb).
 
 4. [`polynomialRegression.ipynb`](polynomialRegression.ipynb)
     - Description: Straight lines are too mainstream! This notebook explores Polynomial Regression using Sci-kit Learn. 
