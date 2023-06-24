@@ -19,7 +19,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Bonus: A sketched line of best fit! (With and without Z-Score Normalization)
         - Dataset: [height_weight.csv](/data/height_weight.csv)
 
----
+--
 
 2. [`multipleFeatureLinearRegression.ipynb`](multipleFeatureLinearRegression.ipynb)
     - Description: 
