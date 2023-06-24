@@ -27,6 +27,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Implementation using Sci-kit Learn. 
         - Another version without libraries.
         - Includes cost function plots to guide the choice of learning rate.
+        - New: Added plots comparing the predictions from the SciKit Learn version and the version without libraries. Also included are plots comparing each method with the actual predictions.
         - Dataset: [multipleFeatures.csv](/data/multipleFeatures.csv) - Because one feature is too mainstream!
 
 
@@ -35,7 +36,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
     - Description:
         - Ditching iterations for equations, this notebook presents Linear Regression via the Normal equation.
         - Employs the same [dataset](/data/height_weight.csv) as the singleFeatureLinearRegression notebook
-        - Graphical representations may be missing, but the calculated weights and bias are similar to the ones from the gradient descent approach in [singleFeatureLinearRegression.ipnyb](singleFeatureLinearRegression.ipynb).
+        - Graphical representations may be missing, but the calculated weights and bias are similar to the ones from the gradient descent approach in [singleFeatureLinearRegression.ipnyb](singleFeatureLinearRegression.ipynb)
 
 
 
@@ -57,7 +58,8 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Regularization to the rescue! This notebook presents Regularized Linear Regression.
         - Both library-based and bare-bones implementations are available.
         - Cost function plots to select the best learning rate and lambda values.
-        - Dataset: [multipleFeatures.csv](/data/multipleFeatures.csv) - Embrace the complexity!
+        - New: Added a plot to show the predictions of the custom model versus the original data, and another plot to compare the SciKit Learn version with the version without libraries.
+        - Dataset: [multipleFeatures.csv](/data/multipleFeatures.csv) 
 
 
 
@@ -66,7 +68,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - The sequel to regularized linear regression, featuring Regularized Logistic Regression. 
         - Implementations both with and without libraries.
         - Cost function plots to guide the choice of learning rate and lambda values.
-        - Dataset: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt) - Round and round we go!
+        - Dataset: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt) 
 
 ---
 
@@ -94,5 +96,5 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Feature engineering using polynomial features up to degree 6.
         - Visualizations of activation layers and 3D surface plots. 
         - Building a neural network from scratch, no high-level libraries involved.
-        - Dataset: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt) - Going in circles!
+        - Dataset: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt) 
 
