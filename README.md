@@ -1,6 +1,6 @@
 # [MLNotebookArchives](https://jayvatti.github.io/MLNotebookArchives/)
 
-This repository contains a collection of Jupyter notebooks, each highlighting the application and understanding of a distinct machine learning model, from the basics to the more sophisticated. (In Progress)
+This repository contains a collection of Jupyter notebooks, each highlighting the application and understanding of a distinct machine learning model, from the basics to the more sophisticated. [`In Progress`]
 
 ## Content
 
