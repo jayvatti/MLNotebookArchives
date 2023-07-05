@@ -30,4 +30,12 @@ The playground where data narrates intriguing tales and machines lend a listenin
 - **Description**: A binary logistic regression dataset with a serious cause - classifying tumors as malignant or benign based on size.
 - **Usage**: Ideal for logistic regression models looking to make a positive impact in the medical field.
 
+## [`multi_class_generated.csv`](multi_class_generated.csv)
+- **Description**: 
+    - Dataset generated using 'make_classification' function from sklearn.datasets.
+    - Consists of two features, both informative, with no redundant or repetitive features present.
+    - Comprises four classes, each represented by a single cluster.
+- **Usage**: Suitable for practicing multi-class regression tasks.
+
+
 Note: The fun descriptions are simply metaphoric. The data files are as serious as they sound, perfect for your machine learning models to practice their skills.
