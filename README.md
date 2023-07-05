@@ -98,6 +98,6 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Building a neural network from scratch, no high-level libraries involved.
         - Dataset: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt)
 
-4. [`multiClass_softmax.ipnyb`](multiClass_softmax.ipnyb)
+4. [`multiClass_softmax.ipynb`](multiClass_softmax.ipynb)
    - Description: 
 
