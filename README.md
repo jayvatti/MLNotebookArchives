@@ -99,5 +99,12 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Dataset: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt)
 
 4. [`multiClass_softmax.ipynb`](multiClass_softmax.ipynb)
-   - Description: 
+    - Description: 
+        - Multiclass classification by employing softmax activation in neural networks.
+        - Comparing models built with and without 'from_logits = true', thus emphasizing the impact of this parameter on neural network performance.
+        - Featuring two different neural network architectures - a simple one with fewer units for a quick yet effective classification, and a moderately large one with more units to generate a more complex decision boundary.
+        - Vivid visualizations of decision boundaries via meshgrid and ravel.
+        - The data exploration journey begins with a custom-generated dataset using 'make_classification' from sklearn.datasets.
+        - Dataset: [multi_class_generated.csv](/data/multi_class_generated.csv) - Multi-class problems have never been more fun to solve!
+
 
