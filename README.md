@@ -2,17 +2,16 @@
 
 This repository contains a collection of Jupyter notebooks, each highlighting the application and understanding of a distinct machine learning model, from the basics to the more sophisticated. [`In Progress`]
 
-============= 
+---
  
 ## Content
 
 - **[`Data folder`](/data/ReadMe.md):** A curated repository of datasets, serving as the foundation and fuel for the models crafted in these notebooks.
 
-============= 
+---
 
 ## Notebook Structure
 
-============= 
 
 ### Supervised Learning
 
@@ -23,7 +22,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Another version without any libraries.
         - Plots of cost functions for learning rate selection.
         - Bonus: A sketched line of best fit! (With and without Z-Score Normalization)
-    - **Dataset**: [height_weight.csv](/data/height_weight.csv)
+    - **Dataset**: [height_weight.csv](/data/height_weight.csv)\
           
 
 2. [`multipleFeatureLinearRegression.ipynb`](multipleFeatureLinearRegression.ipynb)
@@ -76,7 +75,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Cost function plots to guide the choice of learning rate and lambda values.
     - **Dataset**: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt)
 
-----
+
 
 ### Neural Networks
 
