@@ -2,11 +2,17 @@
 
 This repository contains a collection of Jupyter notebooks, each highlighting the application and understanding of a distinct machine learning model, from the basics to the more sophisticated. [`In Progress`]
 
+============= 
+ 
 ## Content
 
 - **[`Data folder`](/data/ReadMe.md):** A curated repository of datasets, serving as the foundation and fuel for the models crafted in these notebooks.
 
+============= 
+
 ## Notebook Structure
+
+============= 
 
 ### Supervised Learning
 
@@ -46,8 +52,9 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
 
 
 5. [`binaryLogisticRegression.ipynb`](binaryLogisticRegression.ipynb)
-    - **Description**: Flirting with classification, this notebook delves into Binary Logistic Regression using Logistic Loss and Sigmoid Functions.
-    - Updated: Now includes a visualization of the sigmoid function and classification boundary, helping to understand how well the model separates classes. Classifying has never been so visually appealing!
+    - **Description**:
+        - Flirting with classification, this notebook delves into Binary Logistic Regression using Logistic Loss and Sigmoid Functions.
+        -  Includes a visualization of the sigmoid function and classification boundary, helping to understand how well the model separates classes. Classifying has never been so visually appealing!
     - **Dataset**: [logisticRegression.csv](/data/logisticRegression.csv)
 
 
@@ -69,7 +76,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Cost function plots to guide the choice of learning rate and lambda values.
     - **Dataset**: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt)
 
----
+----
 
 ### Neural Networks
 
