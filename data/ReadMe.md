@@ -35,6 +35,8 @@ The playground where data narrates intriguing tales and machines lend a listenin
     - Dataset generated using 'make_classification' function from sklearn.datasets.
     - Consists of two features, both informative, with no redundant or repetitive features present.
     - Comprises four classes, each represented by a single cluster.
+
+## [`multipleFeaturesExtended.csv`](multipleFeaturesExtended.csv)
 - **Usage**: Suitable for practicing multi-class regression tasks.
 
 
