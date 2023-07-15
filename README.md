@@ -110,3 +110,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Vivid visualizations of decision boundaries via meshgrid and ravel.
         - The data exploration journey begins with a custom-generated dataset using 'make_classification' from sklearn.datasets.
     - **Dataset**: [multi_class_generated.csv](/data/multi_class_generated.csv) - Multi-class problems have never been more fun to solve!<br>
+
+ 
+5. **[`dTrees.ipynb`](dTrees.ipynb)**
+   - **Description**:
