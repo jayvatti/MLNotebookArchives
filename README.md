@@ -115,3 +115,11 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
 
 1. **[`dTrees.ipynb`](dTrees.ipynb)**
    - **Description**:
+
+     
+2. **[`kmeans.ipynb`](kmeans.ipynb)**
+   - **Description**:
+
+     
+3. **[`anomalyDetection.ipynb`](anomalyDetection.ipynb)**
+   - **Description**:
