@@ -38,7 +38,9 @@ The playground where data narrates intriguing tales and machines lend a listenin
 - **Usage**: Suitable for practicing multi-class regression tasks.
 
 ## [`multipleFeaturesExtended.csv`](multipleFeaturesExtended.csv)
+-
 
-
+## [`anomaly_detection_data.csv`](anomaly_detection_data.csv)
+-
 
 Note: The fun descriptions are simply metaphoric. The data files are as serious as they sound, perfect for your machine learning models to practice their skills.
