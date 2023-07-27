@@ -100,7 +100,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
         - Feature engineering using polynomial features up to degree 6.
         - Visualizations of activation layers and 3D surface plots. 
         - Building a neural network from scratch, no high-level libraries involved.
-        - New: A 3D Decision Probability Plot, using Plotly - view or interact with it via [nbviewer](nbviewer.org)."
+        - New: A 3D Decision Probability Plot, using Plotly - view or interact with it via [nbviewer](https://nbviewer.org/)
     - **Dataset**: [logisticRegressionCircular.txt](/data/logisticRegressionCircular.txt)<br>
 
 
