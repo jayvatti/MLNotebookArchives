@@ -123,3 +123,6 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
      
 3. **[`anomalyDetection.ipynb`](anomalyDetection.ipynb)**
    - **Description**:
+
+4. **[`pca.ipynb`](pca.ipynb)**
+   - **Description**:
