@@ -8,6 +8,7 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
 
 - **[`Data folder`](/data/ReadMe.md):** A curated repository of datasets, serving as the foundation and fuel for the models crafted in these notebooks.
 
+- **[`Kaggle folder`](/kaggle/ReadMe.md):**
 
 ## Notebook Structure
 
