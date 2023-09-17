@@ -12,6 +12,9 @@ This repository contains a collection of Jupyter notebooks, each highlighting th
 
 ## Notebook Structure
 
+### **Basics**
+1. **[`numpyBasics.ipynb`](numpyBasics.ipynb)**
+2. **[`mnist.ipynb`](mnist.ipynb)**
 
 ### **Supervised Learning**
 
